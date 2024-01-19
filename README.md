@@ -1,3 +1,21 @@
+# Wasp-induced gene expression in _Drosophila_
+
+Goal is to identify genes that are differentially expressed following parasitic wasp exposure in _Drosophila melanogaster_. 
+
+**Three treatments**
+
+1. Control: Untreated
+
+2. Oil: Immune induction through injection of clear oil droplet into Drosophila. To get the effect of injury alone.
+
+3. Wasp extract: Immune induction through injection of oil droplet containing parasitic wasp (Leptopilina boulardi) tissue into _Drosophila_. To get the effect of infection + injury.
+
+Four independent biological replicates were sequenced per treatment. Identified DE genes using R edgeR package.
+
+# Gene expression browser
+
+Shows boxplot of CPM for each treatment
+
 https://arunkuma.shinyapps.io/waspapp/
 
 <img width="1396" alt="Screenshot 2024-01-19 at 12 06 56" src="https://github.com/arunkumarramesh/PAMP/assets/23363383/32a18148-05fb-4e46-8eb2-e27f66da1938">
