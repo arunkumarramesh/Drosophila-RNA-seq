@@ -10,7 +10,7 @@ Goal is to identify genes that are differentially expressed following parasitic 
 
 3. Wasp extract: Immune induction through injection of oil droplet containing parasitic wasp (Leptopilina boulardi) tissue into _Drosophila_. To get the effect of infection + injury.
 
-Four independent biological replicates were sequenced per treatment. Identified DE genes using R edgeR package.
+Four independent biological replicates were sequenced per treatment. Identified DE genes using edgeR package.
 
 # Gene expression browser
 
